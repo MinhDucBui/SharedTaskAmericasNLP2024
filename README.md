@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # JGU Mainz’s Submission to the AmericasNLP 2024 Shared Task on the Creation of Educational Materials for Indigenous Languages
