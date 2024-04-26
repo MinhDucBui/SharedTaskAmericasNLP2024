@@ -1,4 +1,3 @@
-# SharedTaskAmericasNLP2024
 
 <div align="center">
 
